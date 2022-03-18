@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Daniil Kniss</h1>
 <h3 align="center">iOS developer from Russia</h3>
 
-- 🌱 I’m currently learning **RxSwift, SwiftUI**
+- 🌱 I’m currently learning **SwiftUI**
 
 - 👨‍💻 All of my projects are available at [github.com/dkniss](github.com/dkniss)
 
-- 💬 Ask me about **UIKit**
+- 💬 Ask me about **UIKit, RxSwift**
 
 - 📫 How to reach me **knissdaniil@gmail.com**
 
